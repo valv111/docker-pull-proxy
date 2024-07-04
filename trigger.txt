@@ -1,1 +1,1 @@
-nginx:1.24 registry.cn-shanghai.aliyuncs.com/valv/nginx:1.24
+mysql:5.7 registry.cn-shanghai.aliyuncs.com/valv/mysql:5.7
