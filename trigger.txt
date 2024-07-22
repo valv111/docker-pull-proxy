@@ -1,1 +1,1 @@
-domain-admin:latest registry.cn-shanghai.aliyuncs.com/valv/mouday/domain-admin:latest
+domain-admin:latest registry.cn-shanghai.aliyuncs.com/valv/domain-admin:latest
